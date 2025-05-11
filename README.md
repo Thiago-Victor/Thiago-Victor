@@ -2,7 +2,7 @@
 
 # 👋 Bem-vindo ao meu GitHub
 
-🎓 **Estudante do curso técnico em Informática**  
+🎓 **Estudante do curso técnico em Informática 3/3**  
 💡 Focado em desenvolvimento **Web**, **Java**, **Python** e **Cibersegurança**  
 🚀 Sempre buscando aprender novas tecnologias!
 
