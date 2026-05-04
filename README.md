@@ -8,7 +8,7 @@ Sempre buscando aprender novas tecnologias!
 
 ![Thiago's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Thiago-Victor&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thiago-Victor&layout=compact&theme=radical)
-
+![Thiago Victor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiago Victor&theme=dracula&hide_border=false)
 ---
 
 ## 🤖 Tecnologias e Ferramentas
