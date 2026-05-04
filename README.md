@@ -6,8 +6,8 @@ Sempre buscando aprender novas tecnologias!
 
 ## 📊 GitHub Stats
 
-![Thiago's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Thiago-Victor&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thiago-Victor&layout=compact&theme=radical)
+![Thiago's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Thiago-Victor&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thiago-Victor&layout=compact&theme=radical)
+
 ---
 
 ## 🤖 Tecnologias e Ferramentas
